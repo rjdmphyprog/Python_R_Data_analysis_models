@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1614637536109.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "99|39|115|0|\n106|24|111|4|\n",
+    "hash" : "1573281505",
+    "id" : "786BED2C",
+    "lastKnownWriteTime" : 1614735464,
+    "last_content_update" : 1614735464814,
+    "path" : "C:/Users/Rolando/Workspace/Machine Learning/Data Analysis/House_price(classification_models)/house_price_knearest.R",
+    "project_path" : "house_price_knearest.R",
+    "properties" : {
+        "cursorPosition" : "99,26",
+        "scrollLine" : "93"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
